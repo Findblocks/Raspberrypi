@@ -1,0 +1,9 @@
+Building RaspberryPi
+
+See doc/readme-qt.rst for instructions on building RaspberryPi QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of RaspberryPi.
+
+See doc/build-*.txt for instructions on building raspberrypid,
+the intended-for-services, no-graphical-interface, reference
+implementation of RaspberryPi.
